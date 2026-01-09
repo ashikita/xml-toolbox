@@ -15,7 +15,7 @@
 
 ## 🚀 Google Colab で開く
 
-GitHub にアップロード後、以下のようなバッジを利用して Colab 実行できます：  
+以下のようなバッジを利用して Google Colab で実行できます：  
 ![Open In Colab](https://camo.githubusercontent.com/eff96fda6b2e0fff8cdf2978f89d61aa434bb98c00453ae23dd0aab8d1451633/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)
 
 ---
@@ -35,7 +35,7 @@ Notebook では次の操作が可能です：
 
 ## 📝 使用方法
 
-1. Notebook を Colab またはローカル Jupyter で開く  
+1. Notebook を Google Colab や GakuNin RDM などで開く  
 2. Notebook の冒頭「設定ブロック」で以下を編集  
    - 入力ファイル名  
    - 枠消し幅（上下左右・奇数/偶数）  
@@ -55,6 +55,3 @@ CC0
 
 バグ報告や改善案など歓迎します。
 Issue / Pull Request をご利用ください。
-
----
-
