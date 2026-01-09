@@ -35,12 +35,12 @@ Notebook では次の操作が可能です：
 
 ## 📝 使用方法
 
-1. Notebook を Google Colab や GakuNin RDM などで開く  
+1. Notebook を Google Colab や GakuNin RDM、ローカルJupyterなどで開く  
 2. Notebook の冒頭「設定ブロック」で以下を編集  
    - 入力ファイル名  
    - 枠消し幅（上下左右・奇数/偶数）  
    - スライド幅（奇数/偶数）  
-3. PDF をアップロード（Colab の場合）  
+3. PDF をアップロード（Colab などの場合）  
 4. Notebook を実行
 
 ---
